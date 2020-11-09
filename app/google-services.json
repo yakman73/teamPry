@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240791882526",
+    "firebase_url": "https://teamspy-cdf8c.firebaseio.com",
+    "project_id": "teamspy-cdf8c",
+    "storage_bucket": "teamspy-cdf8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240791882526:android:5dfd2205df281d45aa970f",
+        "android_client_info": {
+          "package_name": "com.bilal.teampry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240791882526-tp3iu8c8ulk1daqtmm6mke17eh0fc7vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYnIqUp3UJTGUdDpjS8Hs112ueIMndBfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240791882526-tp3iu8c8ulk1daqtmm6mke17eh0fc7vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
